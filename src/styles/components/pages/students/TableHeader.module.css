@@ -1,0 +1,7 @@
+.button {
+  color: var(--mantine-color-dimmed);
+
+  @mixin hover {
+    color: var(--mantine-primary-color-filled);
+  }
+}

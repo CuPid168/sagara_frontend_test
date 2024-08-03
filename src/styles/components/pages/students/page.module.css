@@ -1,0 +1,4 @@
+.table-header {
+  background-color: var(--mantine-color-gray-2);
+  padding-block: var(--mantine-spacing-xs);
+}
